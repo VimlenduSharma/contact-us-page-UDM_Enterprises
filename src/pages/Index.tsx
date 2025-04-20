@@ -223,7 +223,7 @@ const Index = () => {
               <p className="text-gray-600">A trusted market agency</p>
             </div>
             <div>
-              <h4 className="font-semibold text-gray-900 mb-4">COMPANY</h4>
+              <h4 className="font-semibold text-gray-900 mb-4">UDM ENTERPRISES</h4>
               <ul className="space-y-2">
                 <li><a href="#" className="text-gray-600 hover:text-purple-600">About us</a></li>
                 <li><a href="#" className="text-gray-600 hover:text-purple-600">Partner program</a></li>
